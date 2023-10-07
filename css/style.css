@@ -1,0 +1,32 @@
+.html,
+body {
+    background-color: rgb(53, 53, 91);
+    color: white;
+    text-align: center;
+}
+
+.indroduction {
+    font-size: 30px;
+
+}
+
+.indroduction2 {
+    font-size: 30px;
+
+}
+
+.plot {
+    font-size: 30px;
+
+}
+
+.feedback {
+    font-size: 30px;
+
+
+}
+
+.table {
+    font-size: 30px;
+ 
+}
